@@ -1,11 +1,11 @@
-JSLint support for Sublime Text 2 by using jslint4java
+JSLint support for Sublime Text 3 by using jslint4java forked from fbzhong/sublime-jslint
 ========================
 
-Sublime Text 2 (http://www.sublimetext.com/2) is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features.
+Sublime Text 3 (http://www.sublimetext.com/2) is a sophisticated text editor for code, html and prose. You'll love the slick user interface and extraordinary features.
 
 JSLint4Java (http://code.google.com/p/jslint4java/) is a java wrapper around the fabulous tool by Douglas Crockford, [jslint](http://jslint.com). It provides a simple interface for detecting potential problems in JavaScript code.
 
-This project provide a plugin to add JSLint support for Sublime Text 2.
+This project provide a plugin to fix JSLint support for Sublime Text 3.
 
 Features
 -------------
@@ -30,9 +30,9 @@ Installation
 
     > Install Package: sublime-jslint
 
-- Download and extract to Sublime Text 2 Packages folder
+- Download and extract to Sublime Text 3 Packages folder
 
-    > Windows:  %APPDATA%\Sublime Text 2\Packages
+    > Windows:  %APPDATA%\Sublime Text 3\Packages
     
     > Mac OS X: ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
     
